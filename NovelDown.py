@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import requests, sys
     
     # """
-    # 类说明:下载《笔趣看》小说《一念永恒》
+    # 类说明:下载《笔趣看》网文小说《一念永恒》
     # Parameters:
         # 无
     # Returns:
